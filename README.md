@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Soham Panchal, a software artisan. 
 
 ### 👀 My specific tech interests are Web-Development (Frontend-Backend) , AR-VR development and AI-ML. 
-### 🌱 Currently I am practicing DSA and working in web technologies like react, three.js, node.js and also ML algorithms.
+### 🌱 Currently I regularly practice DSA and usually work with web technologies like react, three.js, node.js etc.
 ### 💞️ I am eager to collaborate on different web-related projects, will be glad to contribute to the three.js and WebXR related projects. 😊
 ![Lets develop something good](https://user-images.githubusercontent.com/100792573/200318175-12533934-59b6-46d3-90dd-bebbc4a3b0c6.png)
 ### Connect with me: 
