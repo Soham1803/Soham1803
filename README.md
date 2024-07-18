@@ -18,10 +18,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Soham1803&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Soham_desu)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Soham1803&icon=0&color=0)](https://visitcount.itsvg.in)
 
