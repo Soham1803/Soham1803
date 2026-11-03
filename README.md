@@ -1,8 +1,6 @@
 # Soham Panchal
 
-<p align="right">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmYzeDRycmNwMGhybTA3dmQ0cWszMnA0c2V0d2tqdGJwcDRuaWE4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jnAP1hq3Vr2vADLWtx/giphy.gif" alt="Hi" width="150">
-</p>
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmYzeDRycmNwMGhybTA3dmQ0cWszMnA0c2V0d2tqdGJwcDRuaWE4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jnAP1hq3Vr2vADLWtx/giphy.gif" alt="Hi" width="180">
 
 ```text
 $ whoami
