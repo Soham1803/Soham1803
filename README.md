@@ -1,5 +1,7 @@
 # Soham Panchal
 
+[Welcome](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmYzeDRycmNwMGhybTA3dmQ0cWszMnA0c2V0d2tqdGJwcDRuaWE4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jnAP1hq3Vr2vADLWtx/giphy.gif)
+
 ```text
 $ whoami
 soham_panchal
@@ -66,6 +68,17 @@ Currently gravitating towards **systems programming, computer networks, infrastr
 | ---------------------------------------------------------- | ------------------------------------------------------ |
 | [sp-nlb](https://github.com/Soham1803/sp-nlb)              | A Layer 3/4 Network Load Balancer built with Rust.     |
 | [tps-controls](https://www.npmjs.com/package/tps-controls) | Third-person character controls for React Three Fiber. |
+
+---
+
+### `$ ls ~/blogs`
+
+Technical notes, experiments, and things I've learned along the way.
+
+- **[Understanding Rust’s Memory from Scratch](https://sohamdesu.hashnode.dev/rust-ownership)** — Short description of the article.
+- **[Real life example use case of macros in Rust: Declarative macros](https://sohamdesu.hashnode.dev/example-use-case-of-a-declarative-rust-macro)** — Short description of the article.
+
+---
 
 ### `$ git log --oneline`
 
