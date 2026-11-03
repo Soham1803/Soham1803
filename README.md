@@ -34,40 +34,38 @@ Currently gravitating towards **systems programming, computer networks, infrastr
 
 **Languages**
 
-Rust
-C++
-TypeScript
-JavaScript
+`Rust`
+`C++`
+`TypeScript`
+`JavaScript`
 
 **Backend & Systems**
 
-Node.js
-NestJS
-Tokio
-Linux
+`Node.js`
+`NestJS`
+`Tokio`
+`Linux`
 
 **Infrastructure & Databases**
 
-GCP
-AWS
-Docker
-PostgreSQL
-MongoDB
+`GCP`
+`AWS`
+`Docker`
+`PostgreSQL`
+`MongoDB`
 
 **Other things I've worked with**
 
-React
-Three.js
-WebRTC
+`React`
+`Three.js`
+`WebRTC`
 
 ### `$ find ~/projects -maxdepth 1 -type d`
-
 
 | Project                                                    | Description                                            |
 | ---------------------------------------------------------- | ------------------------------------------------------ |
 | [sp-nlb](https://github.com/Soham1803/sp-nlb)              | A Layer 3/4 Network Load Balancer built with Rust.     |
 | [tps-controls](https://www.npmjs.com/package/tps-controls) | Third-person character controls for React Three Fiber. |
-
 
 ### `$ git log --oneline`
 
@@ -81,7 +79,6 @@ Always interested in discussing systems, networking, Rust, infrastructure, and i
 
 [LinkedIn](https://linkedin.com/in/soham-panchal-800968225)
 [X](https://twitter.com/Soham_desu)
-[Instagram](https://instagram.com/soham_to_ii_masu)
 
 ```text
 01000011 01101111 01101110 01110100 01101001 01101110 01110101 01100101
